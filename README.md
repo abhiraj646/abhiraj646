@@ -1,70 +1,95 @@
-<!DOCTYPE html>
-<body>
-    <h1 align="center"><samp>&gt; Hey, I am <b><a href="https:www.linkedin.com/in/abhiraj-singh-chauhan-1a0b69324//">Abhraj Singh Chauhan</a></b></samp></h1>
-<br>
-<div align="center">
-    <!--
-      <img src="https://user-images.githubusercontent.com/57133330/188281475-2538d5b9-074a-405c-99b1-cb34d90cfafb.gif" height=300>
-    -->
-</div>
-<div>
-  <!--
-    <h2 align="center"><samp> &gt; About me </samp></h2>
-  -->
-   
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJxYnR5ZWNkZ2l0eHgxbWZ5Nnl6amJpdWFqNnE0cTR1bTZyaWpsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" align="right" height="240">
-  <br>
-    <li>
-        <b>Cybersecurity learner • OSINT & Digital Forensics • Python | Linux | Wireshark </b>
-    </li>
-    <br>
-    <li>
-        <b>Forensics </b>
-    </li>
-    <br>
-    <li>
-        <b>धर्मो रक्षति रक्षितः</b> 
-    </li>
-    <br>
-  <details align="center">
-    <summary> <samp>&#9776; Github Stats</samp></summary>
-    <p align="center">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaxter&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Top Languages Stats">
-    </p>
-  </details>
-  
-</div>
-<br>
-<div>
-   <h2><samp>&gt; TechStack</samp></h2>
-    <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height="270px">
-    <br>
-    <p align="center">
-      <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wireshark-0A84FF?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burpsuite-FF7B7B?style=for-the-badge&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<!-- Animated Header -->
+<p align="center">
+  <img src="handshake.gif" width="150"/>
 </p>
-    <br>
-  </p>
+
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+
+<h2 align="center"><b>Hi, I'm Abhiraj Singh Chauhan</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Digital+Forensics+Learner;Malware+Analysis+Researcher;Continuous+Learner+%26+CTF+Player" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## <picture><img src="about_me.gif" width="40px"></picture> **About Me**
+
+<picture> 
+  <img align="right" src="hacker.gif" width="250">
+</picture>
+
+- 👨‍💻 **Cybersecurity Enthusiast** passionate about ethical hacking, malware analysis, and digital forensics  
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **GLA University, Mathura** (2nd Year)  
+- 🧠 Continuously learning and exploring new areas in **network security, penetration testing, and digital forensics**  
+- 🚀 Currently interning at **CyberZero.Club**, **ShadowFox**, and **Redynox**  
+- 💡 Believe in *"Learn | Hack | Secure | Repeat"*  
+- 📫 Reach me at **abhirajsinghchauhan123@gmail.com**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/abhiraj-singh-chauhan-1a0b69324)
+
+---
+
+## 🧩 **Skills & Tools**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=plastic&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=plastic&logo=burp-suite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-000000?style=plastic)
+![Autopsy](https://img.shields.io/badge/Autopsy-00599C?style=plastic)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=plastic)
+
+---
+
+## 🧠 **Projects**
+- 🔍 **Malware Analysis Project (In Progress)** – Research on PDF-based malware detection  
+- 💣 **Ransomware Detection (Hackathon Project)** – Focused on static analysis techniques  
+
+---
+
+## 🧾 **Certifications**
+- 🛡️ Cybersecurity – Tech Mahindra Foundation (Skill India Digital Hub)  
+- 🔐 Cyber Awareness – NIIT Foundation  
+- 💻 TryHackMe Labs: Networking, Linux, Nmap, OpenVPN, Offensive & Defensive Security  
+
+---
+
+## 🧩 **CTF Profiles**
+<div align="center">
+ <a href="https://tryhackme.com/p/abhirajsinghchauhan"><img src="https://tryhackme-badges.s3.amazonaws.com/abhirajsinghchauhan.png" alt="TryHackMe"></a>
+ <a href="https://app.hackthebox.com/profile"><img src="https://www.hackthebox.com/badge/image/placeholder" alt="HackTheBox"></a>
 </div>
 
-  <h2><samp>&gt; Contact me</samp></h2>
-    <p align="center">Contacting me on any of these platforms is always welcome:<br><br>
-    <a href="https://instagram.com/chauhan_abhirajsingh_vajra" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/abhiraj-singh-chauhan-1a0b69324//" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  
+---
 
-<div style="text-align: center;">
-     <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d0MXVkOGd5dzNhdjMzdGtlbXVwdHk4c2VkNXRpd25jdHJqZHVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif" height=150>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
-</div>
-</body>
+## 📊 **GitHub Stats**
+![](https://github-readme-stats.vercel.app/api?username=abhirajsinghchauhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhirajsinghchauhan&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsinghchauhan&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+## ✍️ Random Cyber Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🐍 GitHub Contribution Graph
+<p align="center">
+  <img src="gridsnake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌐 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiraj-singh-chauhan-1a0b69324)
+[![Email](https://img.shields.io/badge/Email-abhirajsinghchauhan123@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirajsinghchauhan123@gmail.com)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=abhirajsinghchauhan&icon=2&color=6)
