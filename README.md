@@ -58,39 +58,37 @@
 - 💻 TryHackMe Labs: Networking, Linux, Nmap, OpenVPN, Offensive & Defensive Security  
 
 ---
-## 🧩 **CTF Profiles**
+## 🧩 CTF Profiles
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- TryHackMe -->
-      <td align="center" width="50%">
-        <a href="https://tryhackme.com/p/Hackvajra">
-          <img 
-            src="https://assets.tryhackme.com/img/THMlogo.png" 
-            alt="TryHackMe" 
-            width="160"
-          />
-        </a>
-        <br/>
-        <b>TryHackMe</b>
-      </td>
+<table align="center">
+  <tr>
+    <!-- TryHackMe -->
+    <td align="center" width="50%">
+      <a href="https://tryhackme.com/p/Hackvajra">
+        <img
+          src="https://assets.tryhackme.com/img/THMlogo.png"
+          alt="TryHackMe"
+          width="160"
+        />
+      </a>
+      <br />
+      <b>TryHackMe</b>
+    </td>
 
-      <!-- Hack The Box -->
-      <td align="center" width="50%">
-        <a href="https://app.hackthebox.com/profile">
-          <img 
-            src="https://doimages.nyc3.digitaloceanspaces.com/hackthebox-logo@4x.png" 
-            alt="Hack The Box" 
-            width="160"
-          />
-        </a>
-        <br/>
-        <b>Hack The Box</b>
-      </td>
-    </tr>
-  </table>
-</div>
+    <!-- Hack The Box -->
+    <td align="center" width="50%">
+      <a href="https://app.hackthebox.com/profile">
+        <img
+          src="https://doimages.nyc3.digitaloceanspaces.com/hackthebox-logo@4x.png"
+          alt="Hack The Box"
+          width="160"
+        />
+      </a>
+      <br />
+      <b>Hack The Box</b>
+    </td>
+  </tr>
+</table>
 
 
 ---
