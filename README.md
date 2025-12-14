@@ -61,7 +61,7 @@
 
 ## 🧩 **CTF Profiles**
 <div align="center">
- <a href="https://tryhackme.com/p/abhirajsinghchauhan"><img src="https://tryhackme-badges.s3.amazonaws.com/abhirajsinghchauhan.png" alt="TryHackMe"></a>
+ <a href="https://tryhackme.com/p/Hackvajra"><img src="https://tryhackme-badges.s3.amazonaws.com/abhirajsinghchauhan.png" alt="TryHackMe"></a>
  <a href="https://app.hackthebox.com/profile"><img src="https://www.hackthebox.com/badge/image/placeholder" alt="HackTheBox"></a>
 </div>
 
