@@ -62,7 +62,7 @@
 ## 🧩 **CTF Profiles**
 <div align="center">
  <a href="https://tryhackme.com/p/Hackvajra"><img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe"></a>
- <a href="https://app.hackthebox.com/profile"><img src="https://www.hackthebox.com/badge/image/placeholder" alt="HackTheBox"></a>
+ <a href="https://app.hackthebox.com/profile"><img src="https://doimages.nyc3.digitaloceanspaces.com/hackthebox-logo@4x.png" alt="HackTheBox"></a>
 </div>
 
 ---
