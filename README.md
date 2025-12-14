@@ -5,116 +5,137 @@
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
-<h2 align="center"><b>Hi, I'm Abhiraj Singh Chauhan</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2 align="center">
+  <b>Hi, I'm Abhiraj Singh Chauhan</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Digital+Forensics+Learner;Malware+Analysis+Researcher;Continuous+Learner+%26+CTF+Player" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+AI+Enthusiast;B.Tech+CSE+Student+%40+GLA+University;Ethical+Hacking+%7C+Digital+Forensics;Hackathon+Participant+%7C+CTF+Learner;Always+Learning+%26+Building" />
 </p>
 
 ---
 
-## <picture><img src="about_me.gif" width="40px"></picture> **About Me**
+## 👨‍💻 About Me
 
-<picture> 
-  <img align="right" src="hacker.gif" width="250">
-</picture>
+<img align="right" src="hacker.gif" width="260"/>
 
-- 👨‍💻 **Cybersecurity Enthusiast** passionate about ethical hacking, malware analysis, and digital forensics  
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **GLA University, Mathura** (2nd Year)  
-- 🧠 Continuously learning and exploring new areas in **network security, penetration testing, and digital forensics**  
-- 🚀 Currently interning at **CyberZero.Club**, **ShadowFox**, and **Redynox**  
-- 💡 Believe in *"Learn | Hack | Secure | Repeat"*  
-- 📫 Reach me at **abhirajsinghchauhan123@gmail.com**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abhiraj-singh-chauhan-1a0b69324)
+- 🎓 **B.Tech (CSE)** student at **GLA University, Mathura** *(2024–2028)*  
+- 🔐 Strong interest in **Cybersecurity, Ethical Hacking & Digital Forensics**  
+- 🤖 Exploring **AI, Design Thinking & Real-World Problem Solving**  
+- 🏆 Active **Hackathon participant** & tech community member  
+- 💡 Enjoy building ideas under pressure and learning by doing  
+- 📍 **Mainpuri, Uttar Pradesh, India**
 
----
-
-## 🧩 **Skills & Tools**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=plastic&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=plastic&logo=burp-suite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-000000?style=plastic)
-![Autopsy](https://img.shields.io/badge/Autopsy-00599C?style=plastic)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=plastic)
+📫 **Email:** abhirajsinghchauhan123@gmail.com  
+🌐 **LinkedIn:** [linkedin.com/in/abhiraj-singh-chauhan-1a0b69324](https://www.linkedin.com/in/abhiraj-singh-chauhan-1a0b69324)
 
 ---
 
-## 🧠 **Projects**
-- 🔍 **Malware Analysis Project (In Progress)** – Research on PDF-based malware detection  
-- 💣 **Ransomware Detection (Hackathon Project)** – Focused on static analysis techniques  
+## 🛠️ Skills & Tools
+
+**Programming & Core**
+- Python, Java, C  
+- Linux (Fundamentals)
+
+**Cybersecurity Tools**
+- Nmap, Wireshark  
+- Burp Suite  
+- FTK Imager, Autopsy  
+- Ghidra (Basic)
+
+**Security Domains**
+- Network Security  
+- Threat Analysis  
+- Vulnerability Assessment  
+- Information Security & Risk Management  
 
 ---
 
-## 🧾 **Certifications**
-- 🛡️ Cybersecurity – Tech Mahindra Foundation (Skill India Digital Hub)  
-- 🔐 Cyber Awareness – NIIT Foundation  
-- 💻 TryHackMe Labs: Networking, Linux, Nmap, OpenVPN, Offensive & Defensive Security  
+## 💼 Experience
+
+**Cyberonites Club – GLA University**  
+*Technical Team Member*  
+📅 Sep 2025 – Present  
+- Assisted in organizing and managing cybersecurity-focused events  
+- Supported technical operations during workshops and activities  
+
+**CyberZero.Club**  
+*Cyber Security & Ethical Hacking Intern*  
+📅 Aug 2025 – Sep 2025  
+- Worked on security fundamentals and practical cybersecurity tasks  
+
+**ShadowFox**  
+*Cyber Security Intern*  
+📅 Aug 2025  
+- Hands-on exposure to threat analysis, network security & incident response  
+
+**Redynox**  
+*Cybersecurity Intern*  
+📅 Aug 2025  
+- Practiced vulnerability assessment & penetration testing  
+- Applied best practices for identifying and mitigating security threats  
+
+**SPARKL – GLA TBI Foundation**  
+*Social Media Intern (Remote)*  
+📅 Jun 2025 – Jul 2025  
+- Designed promotional content & graphics  
+- Managed analytics and engagement strategies  
 
 ---
+
+## 📜 Certifications & Participation
+
+- 🛡️ **Cybersecurity Certification** – Tech Mahindra Foundation (Skill India)  
+- 🔐 **Cyber Awareness** – NIIT Foundation  
+- 🏆 **IntrusionX Hackathon** – Participant  
+- 🧠 **TATA Crucible Campus Quiz 2024** – Participant  
+- 💻 **Spectra 3.0** – CodeBusters Club, GLA University  
+- 🎤 **TechTalk: Cybersecurity, AI & Data Science Edition**
+
+---
+
 ## 🧩 CTF Profiles
 
 <table align="center">
   <tr>
-    <!-- TryHackMe -->
     <td align="center" width="50%">
       <a href="https://tryhackme.com/p/Hackvajra">
-        <img
-          src="https://assets.tryhackme.com/img/THMlogo.png"
-          alt="TryHackMe"
-          width="160"
-        />
+        <img src="https://assets.tryhackme.com/img/THMlogo.png" width="160"/>
       </a>
-      <br />
-      <b>TryHackMe</b>
+      <br/><b>TryHackMe</b>
     </td>
-
-    <!-- Hack The Box -->
     <td align="center" width="50%">
       <a href="https://app.hackthebox.com/profile">
-        <img
-          src="https://doimages.nyc3.digitaloceanspaces.com/hackthebox-logo@4x.png"
-          alt="Hack The Box"
-          width="160"
-        />
+        <img src="https://doimages.nyc3.digitaloceanspaces.com/hackthebox-logo@4x.png" width="160"/>
       </a>
-      <br />
-      <b>Hack The Box</b>
+      <br/><b>Hack The Box</b>
     </td>
   </tr>
 </table>
 
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=abhirajsinghchauhan&theme=tokyonight&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhirajsinghchauhan&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsinghchauhan&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=abhirajsinghchauhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhirajsinghchauhan&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsinghchauhan&theme=tokyonight&hide_border=false&layout=compact)
+## 🐍 Contribution Graph
 
----
-
-## ✍️ Random Cyber Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 🐍 GitHub Contribution Graph
 <p align="center">
   <img src="gridsnake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 🌐 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiraj-singh-chauhan-1a0b69324)
-[![Email](https://img.shields.io/badge/Email-abhirajsinghchauhan123@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirajsinghchauhan123@gmail.com)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhiraj-singh-chauhan-1a0b69324)
+[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:abhirajsinghchauhan123@gmail.com)
 
 ---
 
