@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="hacker.gif" width="240"/>
+<img align="right" src="https://media.tenor.com/Qh_kEiJVTCUAAAAC/ben-10.gif" width="240"/>
 
 - 🎓 **B.Tech (CSE)** @ **GLA University, Mathura** *(2024–2028)*  
 - 🔐 Interested in **Cybersecurity, Ethical Hacking & Digital Forensics**  
