@@ -10,7 +10,7 @@
 
 <h2 align="center">
   Hi, I'm <b>Abhiraj Singh Chauhan</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.tenor.com/Qh_kEiJVTCUAAAAC/ben-10.gif" width="30">
 </h2>
 
 <p align="center">
